@@ -7,4 +7,6 @@ This project requires the user to:
 - Script-5-listfilesdigitonly: display current directory contents long format, with user group ids numerically and hidden files
 - Script-6-firstdirectory: creates a directory in /tmp named myfirstdirectory
 - Script-7-movethatfile: moves the file betty to /tmp/myfirstdirectory
+- Script-8-firstdelete: Delete the file betty.
+- Script-9-firstdirdeletion: delete directory myfirstdirectory that is in the /tmp directory.
 allowing the user to familiarise themselves with basic Bash commands. 
