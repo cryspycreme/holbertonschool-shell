@@ -9,4 +9,5 @@ This project requires the user to:
 - Script-7-movethatfile: moves the file betty to /tmp/myfirstdirectory
 - Script-8-firstdelete: Delete the file betty.
 - Script-9-firstdirdeletion: delete directory myfirstdirectory that is in the /tmp directory.
+- Script-10-back: changes the working directory to the previous one.
 allowing the user to familiarise themselves with basic Bash commands. 
