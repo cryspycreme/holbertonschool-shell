@@ -15,4 +15,5 @@ This project requires the user to:
 - Script-13-symboliclink: Create a symbolic link to /bin/ls, named __ls__.
 - Script-14-copyhtml: copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 - Script-15-letsmove: moves all files beginning with an uppercase letter to the directory /tmp/u 
+- Script-16-cleanemacs: deletes all files in the current working directory that end with the character ~.
 allowing the user to familiarise themselves with basic Bash commands. 
