@@ -6,4 +6,5 @@ This project requires the user to:
 - Script-4-listmorefiles: display current directory contents, including hidden files using the long format 
 - Script-5-listfilesdigitonly: display current directory contents long format, with user group ids numerically and hidden files
 - Script-6-firstdirectory: creates a directory in /tmp named myfirstdirectory
+- Script-7-movethatfile: moves the file betty to /tmp/myfirstdirectory
 allowing the user to familiarise themselves with basic Bash commands. 
